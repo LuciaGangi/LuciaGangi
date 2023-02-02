@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucía Gangi 🌟</h1> 
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina</h3>
 
-- 🌱 I’m currently learning **JavaScript, CSS, React.js, three.js**
+- 🌱 I’m currently into **JavaScript, CSS, React.js, three.js**
 
 - 📫 How to reach me **luciafgangi@hotmail.com**
 
